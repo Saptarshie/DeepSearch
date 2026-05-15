@@ -37,7 +37,7 @@ coverage.xml
 .worktrees/
 
 # ====== Runtime Outputs ======
-outputs/
+# outputs/
 INDEXES/
 workspace/
 
